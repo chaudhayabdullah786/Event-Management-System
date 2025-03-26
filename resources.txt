@@ -1,0 +1,2 @@
+1,mic,true,
+2,speakers,true,
